@@ -1,0 +1,7 @@
+vless://0790859e-9b6b-4608-a4f6-975360824967@huffingtonpost.es:80?host=irandelsey.ir&mode=auto&path=%2F3VC6kNYB4e2bsv1&security=none&type=xhttp#(Fastly)%20http%20xhttp%20CDN%20vless-10.00GB%F0%9F%93%8A-2D%E2%8F%B3
+vless://0790859e-9b6b-4608-a4f6-975360824967@python.org:80?host=irandelsey.ir&mode=auto&path=%2F3VC6kNYB4e2bsv1&security=none&type=xhttp#(Fastly)%20http%20xhttp%20CDN%20vless-10.00GB%F0%9F%93%8A-2D%E2%8F%B3
+vless://0790859e-9b6b-4608-a4f6-975360824967@fastly-1.normanrayemma.ir:80?host=irandelsey.ir&mode=auto&path=%2F3VC6kNYB4e2bsv1&security=none&type=xhttp#(Fastly)%20http%20xhttp%20CDN%20vless-10.00GB%F0%9F%93%8A-2D%E2%8F%B3
+vless://0790859e-9b6b-4608-a4f6-975360824967@fastly-2.normanrayemma.ir:80?host=irandelsey.ir&mode=auto&path=%2F3VC6kNYB4e2bsv1&security=none&type=xhttp#(Fastly)%20http%20xhttp%20CDN%20vless-10.00GB%F0%9F%93%8A-2D%E2%8F%B3
+vless://0790859e-9b6b-4608-a4f6-975360824967@fastly-3.normanrayemma.ir:80?host=irandelsey.ir&mode=auto&path=%2F3VC6kNYB4e2bsv1&security=none&type=xhttp#(Fastly)%20http%20xhttp%20CDN%20vless-10.00GB%F0%9F%93%8A-2D%E2%8F%B3
+vless://0790859e-9b6b-4608-a4f6-975360824967@fastly-4.normanrayemma.ir:80?host=irandelsey.ir&mode=auto&path=%2F3VC6kNYB4e2bsv1&security=none&type=xhttp#(Fastly)%20http%20xhttp%20CDN%20vless-10.00GB%F0%9F%93%8A-2D%E2%8F%B3
+vless://0790859e-9b6b-4608-a4f6-975360824967@fastly-5.normanrayemma.ir:80?host=irandelsey.ir&mode=auto&path=%2F3VC6kNYB4e2bsv1&security=none&type=xhttp#(Fastly)%20http%20xhttp%20CDN%20vless-10.00GB%F0%9F%93%8A-2D%E2%8F%B3
